@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "test-docling-parse"
+version = "0.1.0"
+description = ""
+authors = ["Ashwani Pandey <143486021+ashwani-synax-ai@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
